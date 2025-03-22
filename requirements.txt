@@ -1,0 +1,13 @@
+flask>=2.0.0
+numpy>=1.22.0
+trimesh>=3.9.0
+matplotlib>=3.5.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+nvidia-ml-py3>=7.352.0
+jupyter>=1.0.0
+tqdm>=4.64.0
+Pillow>=9.0.0
+
+# Note: PyTorch should be installed separately with CUDA support using:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 
